@@ -1,2 +1,3 @@
-# weBarys Web Programming
-Welcome! weBarys is a website for personal use
+# weBarys - Web Programming
+Welcome! 
+WeBarys is a young web developer :)
