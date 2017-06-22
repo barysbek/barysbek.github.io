@@ -1,2 +1,2 @@
 # weBarys Web Programming
-Welcome! WeBarys is a website for personal use
+Welcome! weBarys is a website for personal use
