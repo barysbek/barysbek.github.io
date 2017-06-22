@@ -1,3 +1,3 @@
 # weBarys - Web Programming
 Welcome! 
-WeBarys is a young web developer :)
+weBarys is a young web developer :)
